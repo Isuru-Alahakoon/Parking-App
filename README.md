@@ -97,5 +97,4 @@ The app uses Android **Intents** to switch between screens:
 
 
 
-## 📁 Project Structure
 
