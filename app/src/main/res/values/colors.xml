@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ParkRasy - 60-30-10 Color Rule (Light Theme) -->
+<!-- Primary: 60% - Light blue-gray background -->
+<!-- Secondary: 30% - White / light surfaces -->
+<!-- Accent: 10% - Blue for CTAs and highlights -->
+<resources>
+    <!-- Primary Colors (60% - Light background) -->
+    <color name="primary_dark">#E8F4FD</color>
+    <color name="primary">#FFFFFF</color>
+    <color name="primary_light">#BBDEFB</color>
+
+    <!-- Secondary Colors (30% - Light surfaces, gray text) -->
+    <color name="secondary_dark">#1B263B</color>
+    <color name="secondary">#546E7A</color>
+    <color name="secondary_light">#78909C</color>
+    <color name="gray_surface">#F5F5F5</color>
+
+    <!-- Accent (10% - Blue for buttons, key actions) -->
+    <color name="accent">#1565C0</color>
+    <color name="accent_white">#FFFFFF</color>
+    <color name="accent_white_dim">#E3F2FD</color>
+
+    <!-- Text on light backgrounds -->
+    <color name="text_primary">#1B263B</color>
+    <color name="text_secondary">#546E7A</color>
+
+    <!-- Icon tint on light (dark icons) -->
+    <color name="icon_tint">#37474F</color>
+
+    <!-- Semantic -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="success_green">#4CAF50</color>
+</resources>
